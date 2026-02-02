@@ -1,0 +1,6 @@
+Hello GitHub!
+
+This file is created as part of the
+SE Lab Assignment on Code Versioning.
+
+Author: Haritha
