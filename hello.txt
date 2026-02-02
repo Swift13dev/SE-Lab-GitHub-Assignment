@@ -4,3 +4,6 @@ This file is created as part of the
 SE Lab Assignment on Code Versioning.
 
 Author: Haritha
+
+This line was added in the feature-update branch.
+This demonstrates branching and committing changes.
